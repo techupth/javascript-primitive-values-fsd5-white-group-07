@@ -11,3 +11,4 @@ let thirdParagraph =
 // Start coding here
 let article = firstParagraph + "\n\n" + secondParagraph + "\n\n" + thirdParagraph;
 console.log(article)
+
