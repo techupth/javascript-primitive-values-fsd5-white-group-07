@@ -2,5 +2,7 @@
 
 let totalParts = 13000;
 
-let concatSentence;
-let literalSentence;
+let concatSentence = "Total:" + " " + totalParts + " " + "Machine Parts";
+console.log(concatSentence);
+let literalSentence = `Total: ${totalParts} Machine Part`;
+console.log(literalSentence);
